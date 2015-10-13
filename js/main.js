@@ -3,7 +3,10 @@ $(document).ready(function() {
 	var songsUrls = [
 		"https://www.youtube.com/watch?v=jofNR_WkoCE",
 		"https://www.youtube.com/watch?v=9bZkp7q19f0",
-		"https://www.youtube.com/watch?v=y6Sxv-sUYtM"
+		"https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+		"https://youtu.be/SkTt9k4Y-a8?t=2m19s",
+ 		"https://youtu.be/PWgvGjAhvIw?t=1m7s",
+ 		"https://youtu.be/otCpCn0l4Wo?t=14s"
 	];
 
 	var size = songsUrls.length;

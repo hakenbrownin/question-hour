@@ -10,7 +10,8 @@ $(document).ready(function() {
 		"https://www.youtube.com/watch?v=5NV6Rdv1a3I", // Daft Punk - Get Lucky
 		"https://youtu.be/y6120QOlsfU?t=30s", // darude sandstorm
 		"https://youtu.be/Qkuu0Lwb5EM?t=19s", // who let the dogs out
-		"https://www.youtube.com/watch?v=4O9OCrkSLzs" // When mom isn't home
+		"https://www.youtube.com/watch?v=4O9OCrkSLzs", // When mom isn't home
+		"https://www.youtube.com/watch?v=NdJQopRuH1E", // Pokemon Red & Blue theme
 	];
 
 	var size = songsUrls.length;

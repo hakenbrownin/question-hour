@@ -1,5 +1,7 @@
 $(document).ready(function() {
 	var songsUrls = [
+		"https://www.youtube.com/watch?v=U7zW597J6EU", // Pokemon Johto
+		"https://www.youtube.com/watch?v=EAwWPadFsOA", // Mortal Kombat
 		"https://www.youtube.com/watch?v=jofNR_WkoCE", // What Does The Fox Say?
 		"https://www.youtube.com/watch?v=9bZkp7q19f0", // PSY - GANGNAM STYLE
 		"https://youtu.be/SkTt9k4Y-a8?t=2m19s", // LMFAO - Sorry For Party Rocking
